@@ -1,0 +1,26 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    
+    text-align: center;
+    background-color: aqua;
+    width: 50vh;
+    height: 40vh;
+   
+}
+input{
+    margin:1vh;
+    padding: 1vh;
+}
+button{
+    margin: 1vh;
+    margin-left: 0%;
+}
+a{
+    text-decoration: none;
+}
